@@ -43,3 +43,4 @@
 /Users/emrahelis/MiddleWare-MVC/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
 /Users/emrahelis/MiddleWare-MVC/obj/Debug/net8.0/MiddleWare-MVC.csproj.AssemblyReference.cache
 /Users/emrahelis/MiddleWare-MVC/obj/Debug/net8.0/MiddleWa.2EFD1524.Up2Date
+/Users/emrahelis/MiddleWare-MVC/obj/Debug/net8.0/MiddleWare-MVC.sourcelink.json

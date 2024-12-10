@@ -5,6 +5,10 @@ public class MongoDbClient
 
     public void AddLog(LogModel model)
     {
+        // cloud ortamda bir mongo db servisi bulup, orada mongo db oluşturduk
+        // provideer kısmını o servisten aldık!!
+
+        // Insert One ile de, veriyi mongoya bastık!!
         var client = new MongoClient("mongodb+srv://emrahelis:40GV5bQbIKnqCNYz@cluster0.3p4ow.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
         var database = client.GetDatabase("foo");
         var collection = database.GetCollection<BsonDocument>("cluster0");
